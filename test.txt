@@ -2,6 +2,7 @@ pwd
 ls
 echo
 ls
+cp
 cd
 pwd
 ls
