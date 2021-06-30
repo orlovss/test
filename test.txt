@@ -2,3 +2,5 @@ pwd
 ls
 echo
 ls
+cd
+ls
